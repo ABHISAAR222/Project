@@ -1,0 +1,9 @@
+body{background-color:#E27D60;
+    background: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1280px 720px;}
+    h1{text-align: left;}
+    table{border: 1px solid black;}
+    th{border: 1px solid black;}
+    td{border: 1px solid black;
+    font-size: 15px;}

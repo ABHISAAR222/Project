@@ -1,0 +1,71 @@
+body{background-color:#E27D60;
+background: url(logo.jpg);
+background-repeat: no-repeat;
+background-size: 1280px 720px;}
+h1{text-align: center;
+font-family: Lucida Bright;}
+.new{position: absolute;
+    right:80px;
+    bottom: 570px;
+    color: black;
+    font-size: 25px;
+background-color: burlywood;
+font-family: Lucida Bright;
+transition: ease-out 0.3s;}
+.new:hover{
+    box-shadow:  inset 300px 0 0 0 black;
+    cursor:pointer;
+    color: burlywood;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+.another{position: absolute;
+    right: 235px;
+    bottom: 120px;
+    color: black; 
+    background-color:burlywood ;  
+    font-size: 25px;
+font-family: Lucida Bright;
+transition: ease-out 0.3s;
+}
+.another:hover{
+    box-shadow:  inset 300px 0 0 0 black;
+    cursor:pointer;
+    color: burlywood;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+.another1{position: absolute;
+    right: 850px;
+    bottom: 120px;
+    color: black; 
+    background-color:burlywood;  
+    font-size: 25px;
+    font-family: Lucida Bright;
+    transition: ease-out 0.3s;}
+.another1:hover{ box-shadow:  inset 300px 0 0 0 black;
+    cursor:pointer;
+    color: burlywood;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);}
+.another2{position: absolute;
+    right: 550px;
+    bottom: 120px;
+    color: black; 
+    background-color: burlywood;  
+    font-size: 25px;
+    font-family: Lucida Bright;
+    transition: ease-out 0.3s;}
+.another2:hover{
+    box-shadow:  inset 300px 0 0 0 black;
+    cursor:pointer;
+    color: burlywood;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+
+

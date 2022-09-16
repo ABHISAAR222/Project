@@ -1,0 +1,88 @@
+body{background-color:#E27D60;
+    background: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1280px 720px;}
+h1{text-align: center;
+    font-family: Lucida Bright;}
+.PS1{position: absolute;
+    right:140px;
+    bottom: 300px;
+    color: black;
+    font-size: 20px;
+background-color: burlywood;
+font-family: Lucida Bright;
+transition: ease-out 0.3s;}
+.PS1:hover{
+    box-shadow:  inset 300px 0 0 0 black;
+    cursor:pointer;
+    color: burlywood;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+.PS2{position: absolute;
+    right:290px;
+    bottom: 300px;
+    color: black;
+    font-size: 20px;
+background-color: burlywood;
+font-family: Lucida Bright;
+transition: ease-out 0.3s;}
+.PS2:hover{
+    box-shadow:  inset 300px 0 0 0 black;
+    cursor:pointer;
+    color: burlywood;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+.PS3{position: absolute;
+    right:490px;
+    bottom: 300px;
+    color: black;
+    font-size: 20px;
+background-color: burlywood;
+font-family: Lucida Bright;
+transition: ease-out 0.3s;}
+.PS3:hover{
+    box-shadow:  inset 300px 0 0 0 black;
+    cursor:pointer;
+    color: burlywood;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+.PS4{position: absolute;
+    right:800px;
+    bottom: 300px;
+    color: black;
+    font-size: 20px;
+background-color: burlywood;
+font-family: Lucida Bright;
+transition: ease-out 0.3s;}
+.PS4:hover{
+    box-shadow:  inset 300px 0 0 0 black;
+    cursor:pointer;
+    color: burlywood;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+.PS5{position: absolute;
+    right:1000px;
+    bottom: 300px;
+    color: black;
+    font-size: 20px;
+background-color: burlywood;
+font-family: Lucida Bright;
+transition: ease-out 0.3s;}
+.PS5:hover{
+    box-shadow:  inset 300px 0 0 0 black;
+    cursor:pointer;
+    color: burlywood;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+h2{font-family: Lucida Bright;
+bottom: 600px;}
